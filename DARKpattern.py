@@ -1,3 +1,7 @@
+# Install Requests
+# Install BeautifulSoup
+# Install Sklearn
+# Install Tkinter
 import requests
 from bs4 import BeautifulSoup
 from sklearn.feature_extraction.text import TfidfVectorizer
